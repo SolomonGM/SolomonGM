@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SolomonGM, aka Solomon
-- 👀 I’m interested in Computer Science, (Fullstack Developmnt)
+- 👀 I’m interested in Computer Science, (Backend Developmnt)
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Website/Desktop applications
 - 📫 How to reach me: b.oduyebo2005@gmail.com
