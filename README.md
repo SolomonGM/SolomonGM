@@ -9,9 +9,7 @@
 SolomonGM/SolomonGM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![image](https://github.com/SolomonGM/SolomonGM/assets/124704556/aba3c906-9747-4290-ab8d-99761dc536c9)
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">@sullymoon on Discord</h2>
 
 ###
 
