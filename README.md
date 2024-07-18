@@ -5,6 +5,7 @@
 <a href="#"><img src="https://streak-stats.demolab.com?user=SolomonGM&theme=cobalt" alt="GitHub Streak" /></a>
 </div>
 <br>
+---
 <div align="center">
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
