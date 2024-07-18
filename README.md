@@ -1,7 +1,9 @@
 <p align="center">
   <strong>@sullymoon on Discord</strong>
 </p>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SolomonGM" alt="GitHub Streak" /></a>
+</div>
 <br>
 <div align="center">
   <div align="center">
