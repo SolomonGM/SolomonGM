@@ -33,8 +33,8 @@
 
 ### Professional Experience
 
-- **Frontend Development:** Building responsive and interactive user interfaces using modern frameworks.
-- **Backend Development:** Developing robust backend systems and APIs with Node.js, Python, and C#.
-- **Database Management:** Designing and managing databases with MongoDB, MySQL, and PostgreSQL.
-- **DevOps:** Implementing CI/CD pipelines and managing containerized applications with Docker.
+ **Frontend Development:** Building responsive and interactive user interfaces using modern frameworks.
+ **Backend Development:** Developing robust backend systems and APIs with Node.js, Python, and C#.
+ **Database Management:** Designing and managing databases with MongoDB, MySQL, and PostgreSQL.
+ **DevOps:** Implementing CI/CD pipelines and managing containerized applications with Docker.
 
