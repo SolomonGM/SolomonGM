@@ -31,10 +31,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core logo" />
 </div>
 
+### Experience
+
 ### Professional Experience
 
- **Frontend Development:** Building responsive and interactive user interfaces using modern frameworks.
- **Backend Development:** Developing robust backend systems and APIs with Node.js, Python, and C#.
- **Database Management:** Designing and managing databases with MongoDB, MySQL, and PostgreSQL.
- **DevOps:** Implementing CI/CD pipelines and managing containerized applications with Docker.
+<div align="center">
+  <p><strong>Frontend Development:</strong> Building responsive and interactive user interfaces using modern frameworks.</p>
+  <p><strong>Backend Development:</strong> Developing robust backend systems and APIs with Node.js, Python, and C#.</p>
+  <p><strong>Database Management:</strong> Designing and managing databases with MongoDB, MySQL, and PostgreSQL.</p>
+  <p><strong>DevOps:</strong> Implementing CI/CD pipelines and managing containerized applications with Docker.</p>
+</div>
+
 
