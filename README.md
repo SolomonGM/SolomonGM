@@ -5,7 +5,7 @@
 <a href="#"><img src="https://streak-stats.demolab.com?user=SolomonGM&theme=cobalt" alt="GitHub Streak" /></a>
 </div>
 <br>
----
+
 <div align="center">
   <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript logo" />
@@ -31,13 +31,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt=".NET Core logo" />
 </div>
 
-### Experience
-
-<div align="center">
-  <p><strong>Frontend Development:</strong> Building responsive and interactive user interfaces using modern frameworks.</p>
-  <p><strong>Backend Development:</strong> Developing robust backend systems and APIs with Node.js, Python, and C#.</p>
-  <p><strong>Database Management:</strong> Designing and managing databases with MySQL</p>
-  <p><strong>DevOps:</strong> Implementing CI/CD pipelines and managing containerized applications with Docker.</p>
-</div>
 
 
