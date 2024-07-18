@@ -33,8 +33,6 @@
 
 ### Experience
 
-### Professional Experience
-
 <div align="center">
   <p><strong>Frontend Development:</strong> Building responsive and interactive user interfaces using modern frameworks.</p>
   <p><strong>Backend Development:</strong> Developing robust backend systems and APIs with Node.js, Python, and C#.</p>
