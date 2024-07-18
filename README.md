@@ -1,7 +1,7 @@
 <p align="center">
   <strong>@sullymoon on Discord</strong>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=SolomonGM)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SolomonGM" alt="GitHub Streak" /></a>
 <br>
 <div align="center">
   <div align="center">
