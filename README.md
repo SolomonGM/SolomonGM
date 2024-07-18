@@ -35,7 +35,7 @@
 <div align="center">
   <p><strong>Frontend Development:</strong> Building responsive and interactive user interfaces using modern frameworks.</p>
   <p><strong>Backend Development:</strong> Developing robust backend systems and APIs with Node.js, Python, and C#.</p>
-  <p><strong>Database Management:</strong> Designing and managing databases with MongoDB, MySQL, and PostgreSQL.</p>
+  <p><strong>Database Management:</strong> Designing and managing databases with MySQL</p>
   <p><strong>DevOps:</strong> Implementing CI/CD pipelines and managing containerized applications with Docker.</p>
 </div>
 
